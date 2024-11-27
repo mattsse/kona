@@ -6,6 +6,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.2.0](https://github.com/mattsse/kona/compare/kona-executor-v0.1.0...kona-executor-v0.2.0) - 2024-11-27
+
+### Added
+
+- *(driver)* refines the executor interface for the driver ([#850](https://github.com/mattsse/kona/pull/850))
+
 ## [0.0.6](https://github.com/anton-rs/kona/compare/kona-executor-v0.0.5...kona-executor-v0.0.6) - 2024-11-20
 
 ### Added
